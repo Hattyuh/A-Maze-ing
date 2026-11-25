@@ -1,0 +1,5 @@
+.venv
+.env
+*.swp
+*.tmp
+.mypy_cache
